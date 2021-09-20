@@ -8,6 +8,7 @@
 - [开源早读课周刊（第 6 期）：苹果的开源差强人意](https://github.com/hapiman/weekly/blob/main/006.md)
 - [开源早读课周刊（第 7 期）：亚马逊的开源“合作共赢”](https://github.com/hapiman/weekly/blob/main/007.md)
 - [开源早读课周刊（第 8 期）：阿里巴巴的开源国内领先](https://github.com/hapiman/weekly/blob/main/008.md)
+- [开源早读课周刊（第 9 期）：腾讯的开源稳步推进](https://github.com/hapiman/weekly/blob/main/009.md)
 
 这个周刊每周五发布，微信搜索 **大漠胡萝卜** 或者扫描二维码，即可订阅。
 
